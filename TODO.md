@@ -1,6 +1,5 @@
 # General
 * Recheck licens for text
-* OSM licens, all trails?
 * System to follow "right to erasure" (Deletion of any information that can be used to identify a person [Data may be saved for legal reasons]) [MANUALY DONE CURRENTLY]
 * Uploads of images ip users? (CC0 default?, COMMUNITY UNLICENSED?)
 
