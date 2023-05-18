@@ -1,15 +1,13 @@
 # General
-* Recheck licens for text
 * System to follow "right to erasure" (Deletion of any information that can be used to identify a person [Data may be saved for legal reasons]) [MANUALY DONE CURRENTLY]
-* Uploads of images ip users? (CC0 default?, COMMUNITY UNLICENSED?)
 
 # Frontend
 
 ## High
 * Menus not behaving when in mobile view, (multiple menus visible)
-* ON upload image with cords to newPoiPage where no cords are set. The auto set position is not working inthis scenario.
 * In route edit mode, no tool should be preselected.
 * Orientation on currently uploading images in image rotatater thing.
+* Change sort order of images, with drag and drop
 
 ## Backlog
 * New POI - Culture
