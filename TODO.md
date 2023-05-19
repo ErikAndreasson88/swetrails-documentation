@@ -4,16 +4,20 @@
 # Frontend
 
 ## High
-* Menus not behaving when in mobile view, (multiple menus visible)
-* In route edit mode, no tool should be preselected.
 * Orientation on currently uploading images in image rotatater thing.
-* Change sort order of images, with drag and drop
+* Change sort order of images, with drag and drop.
+* Move active tools for trails into the map area. As they are only used for map editing.
+* Generic Markdown pages with history support
+* Blog page setup with editing tools using generic Markdown pages
+* Footer with contact and information
 
 ## Backlog
 * New POI - Culture
+* Add popup to inform user what to do next in editTrail tools. New segment, multiPoint edit tool
 * Change default contrast color route sections?
 * WYSIWYG handle pasted text!
 * Markdown + wysiwyg editor support grid
+* Edit segment. Disable point edit above x zoom level
 * Markdown issue on inherited depth (If it is gonna be supported)
 * Upload private gpx tracks (only visible for the user)
 * Upload private images(licens and still public but unbound)
@@ -32,6 +36,9 @@
 
 ## Backlog
 * Privalage management on url_id
+* APi usage statistics
+* API statistics as timers, packageSize, request count
+* Data transfer statistics
 
 
 ## Springboot - Web crawler / repeat batch work every x hour/day/month
