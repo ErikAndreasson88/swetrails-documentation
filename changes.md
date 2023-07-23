@@ -1,5 +1,14 @@
 # Changes
 
+## 2023-07-23
+* Custom markdown pages
+* Improved mobile support. Now users can minimize current page to the left/bottom of the screen to see the map
+* New routing url scheme to support subpages for trails in the future
+* Fixed mobile scaling issue being bad for mobile user experence, by google
+* Fixed wrong link type not beeing detectable by google
+* Fixed bad image manaagment in the WYSIWYG
+* Fixed WYSIWYG not working until at least 2 lines been written in it
+
 ## 2023-05-19
 * Removed users ability to chagne url, after the poin been created
 * Fixed menu element that did not close on externalEvents
