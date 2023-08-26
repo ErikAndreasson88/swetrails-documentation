@@ -30,6 +30,7 @@
 # Backend
 
 ## High
+* jpeg endings can be converted to jpg. and then they don't match.
 * Send email when new images has been added for verification
 
 ## Backlog
